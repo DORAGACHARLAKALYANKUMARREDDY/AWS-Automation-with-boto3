@@ -1,0 +1,13 @@
+Manual Steps:
+Step-1: Get AWS Management Console
+Step-2: Get IAM Console
+        In IAM Console we have options to select like,
+        -users
+        -groups
+        -Roles
+        -policies etc..
+
+Boto3 Automation Script
+
+Access Key: AKIARBTSTPQCSCAYC36I
+Secret Key: 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
