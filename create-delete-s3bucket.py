@@ -17,8 +17,8 @@ def delete_s3_bucket(bucket_name):
         print(f"Error deleting bucket: {e}")
 
 if __name__ == "__main__":
-    bucket_name = 'notifys3bucket'
+    bucket_name = 'nani15'
 
-    # create_s3_bucket(bucket_name)
+    create_s3_bucket(bucket_name)
 
-    delete_s3_bucket(bucket_name)
+    # delete_s3_bucket(bucket_name)
